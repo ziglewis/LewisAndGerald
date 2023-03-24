@@ -10,4 +10,15 @@
     z-index: -2;
   }
   
+  #welcome-section{
+    height: 100vh;
+  }
   
+  @media max400px{
+    body{color: green
+  }
+  
+  link{
+    color: red;
+  }
+  }
